@@ -17,6 +17,7 @@ After the necessary window handler is identified, the active view can be replace
 3. Take ***WindowHunter*** info and pass it to ***Mimiker*** so it can display itself.
 
 Defined a very simple interface:
+
 ![](img/v1_interface.png)
 
 ***Note***: The VS solution is set to be compiled for 3ds Max 2018, but this approach works also for older 3ds Max versions, or at least with 2016 one.
